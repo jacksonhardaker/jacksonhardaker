@@ -1,4 +1,4 @@
-### Hi there 👋
+![me (Jackson) on the road between Luderitz and Garub in Namibia](./assets/jackson-hardaker-between-luderitz-and-garub-namibia.jpg)
 
 <!--
 **jacksonhardaker/jacksonhardaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
