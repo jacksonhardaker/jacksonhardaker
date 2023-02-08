@@ -1,7 +1,5 @@
 ![me (Jackson) on the road between Luderitz and Garub in Namibia](https://github.com/jacksonhardaker/jacksonhardaker/blob/main/assets/jackson-hardaker-between-luderitz-and-garub-namibia.jpg?raw=true)
 
-🐘 <a rel="me" href="https://mastodon.world/@jacksonhardaker">@jacksonhardaker</a>
-
 <!--
 **jacksonhardaker/jacksonhardaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
